@@ -132,11 +132,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Models" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/lang/jp" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\laravel\learn-laravel-api\resources\lang\jp" />
       <recent name="C:\work\laravel\learn-laravel-api\app\Models" />
       <recent name="C:\work\laravel\learn-laravel-api\app" />
       <recent name="C:\work\laravel\learn-laravel-api\app\Http\Controllers" />
@@ -170,11 +171,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605162932674</updated>
-      <workItem from="1605162940133" duration="1752000" />
+      <workItem from="1605162940133" duration="6932000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2684" y="445" key="NewPhpFileDialog" timestamp="1605169215776">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2684" y="445" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605169215776" />
+    <state x="2549" y="262" width="661" height="516" key="find.popup" timestamp="1605170414497">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2549" y="262" width="661" height="516" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605170414497" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605170767351">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605170767351" />
   </component>
 </project>

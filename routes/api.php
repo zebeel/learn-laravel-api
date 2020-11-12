@@ -16,7 +16,7 @@ use App\Http\Controllers\APIController;
 
 Route::post('new-user', [APIController::class, 'newUser']);
 
-Route::middleware('auth:api')->group(function () {
+Route::middleware(['auth:api', 'api-language'])->group(function () {
     Route::get('get-data/{id}', [APIController::class, 'getData']);
     Route::post('new-data', [APIController::class, 'newData']);
     Route::put('update-data/{id}', [APIController::class, 'updateData']);
